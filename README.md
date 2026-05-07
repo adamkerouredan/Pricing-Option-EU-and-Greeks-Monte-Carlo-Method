@@ -1,4 +1,4 @@
-European Option Pricing under Black-Scholes: Monte Carlo, Finite Difference Methods and Greeks Estimation
+#European Option Pricing under Black-Scholes: Monte Carlo, Finite Difference Methods and Greeks Estimation
 This project implements and compares two major numerical techniques for pricing European options under the Black-Scholes framework: Monte Carlo simulation and Finite Difference Methods (FDM). Written in C++ with performance and clarity in mind, the codebase provides a comprehensive exploration of option pricing and sensitivity analysis.
 
 ---
